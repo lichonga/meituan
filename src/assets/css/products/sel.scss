@@ -1,0 +1,37 @@
+#s-item {
+    box-sizing: border-box;
+    margin-top: 10px;
+    width: 250px;
+    background: #FFF;
+    border: 1px solid rgb(207, 203, 203);
+    border-radius: 4px;
+    color: #333;
+    font-size: 14px;
+    line-height: 20px;
+    padding: 11px 20px;
+   >dt{
+    text-align: center;
+    }
+    >dd{
+        .rate{
+        font-size: 18px;
+        display: inline-block;
+        }
+        .total{
+        font-size: 12px;
+        color: #999;
+        height: 24px;
+        line-height: 24px;
+        margin-left: 10px;
+        }
+        .addr{
+        color: #999;
+        }
+        .pri{
+        color: #FF6600;
+        .price{
+            font-size: 22px;
+        }
+        }
+    }
+}
